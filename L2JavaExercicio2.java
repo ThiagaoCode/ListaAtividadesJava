@@ -33,7 +33,7 @@ public class L2JavaExercicio2 {
 			System.out.println("\nOrdem crescente: " + b + " , " + c + " , " + a  );
 		}
 		else if(c<=a && a<=b) {
-			System.out.println("\nOrdem crescente: " + c + " 50, " + a + " , " + b  );
+			System.out.println("\nOrdem crescente: " + c + " , " + a + " , " + b  );
 		}
 		else {
 			System.out.println("\nOrdem crescente: " + c + " , " + b + " , " + a  );
